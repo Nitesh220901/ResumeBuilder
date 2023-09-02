@@ -1,0 +1,19 @@
+
+.heading{
+    background-color: rgb(245, 243, 243);
+}
+
+
+#cv-template{
+        display: none;
+
+}
+.background{
+
+    background-color: #21252908;
+}
+.myimg{
+    width: 70% ;
+    max-width: 275px;
+
+}
